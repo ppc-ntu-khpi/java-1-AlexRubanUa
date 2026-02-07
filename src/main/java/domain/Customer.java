@@ -1,10 +1,5 @@
-# ПР 1
-
-
-## Код класу Customer:
-
-```java
 package domain;
+
 public class Customer {
     private int ID = 1;
     private boolean isNew = true;
@@ -38,10 +33,3 @@ public class Customer {
         System.out.println("Total purchases are: " + total);
     }
 }
-```
-## Фото виконання файлу CustomerTest
-
-![](https://github.com/ppc-ntu-khpi/java-1-AlexRubanUa/blob/main/Solution/advanced.png)
-
-
-
